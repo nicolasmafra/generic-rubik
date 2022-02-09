@@ -14,6 +14,7 @@ var input = {
         'KeyX': { axis: 0, dir: 1, sliceSize: 'n' },
         'KeyY': { axis: 1, dir: 1, sliceSize: 'n' },
         'KeyZ': { axis: 2, dir: 1, sliceSize: 'n' },
+        // blabalbalbla
     },
     callback: function (actionParam) {
         console.log("override input.callback. Action param received: " + JSON.stringify(actionParam));
