@@ -1,4 +1,5 @@
 var input = {
+    // essas são as teclas e a rotação que cada uma faz
     keyActions: {
         'Space': 'reset',
         'KeyR': { axis: 0, dir: 1 },
