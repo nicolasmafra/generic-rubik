@@ -5,6 +5,7 @@ import { input } from './input.mjs';
 function onload() {
     if (!gfx.prepare()) return;
     
+    // esse é o tamanho do puzzle. Altere como quiser
     engine.pieceCounts = [3, 3, 3];
     var distance = Math.max.apply(Math, engine.pieceCounts);
     engine.createPiecesData();
