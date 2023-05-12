@@ -5,3 +5,6 @@ Movements:
 - Counter-clockwise: Hold Shift
 - Cube rotations: X, Y, Z
 - Face rotations: R, U, F, L, D, B
+
+## Changing size
+Change `engine.pieceCounts` value
