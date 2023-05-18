@@ -1,5 +1,5 @@
 # generic-rubik
-A JS Rubik Cube with parameterized size
+A JS Rubik Cube with parameterized size. Click [here](https://nickmafra.github.io/generic-rubik/)
 
 Movements:
 - Counter-clockwise: Hold Shift
