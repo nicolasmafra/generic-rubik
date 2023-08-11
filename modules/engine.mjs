@@ -1,4 +1,4 @@
-import { Quaternion, Vector3 } from 'https://cdn.skypack.dev/three';
+import { Quaternion, Vector3 } from 'three';
 
 const engine = {
     colorValues: [
